@@ -7,8 +7,7 @@
 <i><p>IoT & Cloud Researcher @ [RACELab][racelab-url]</p></i>
 Computer Engineering @ UC Santa Barbara
 
-<br>
-_Links:_
+
 [ [LinkedIn ↗︎][linkedin-url] ] [ [Personal Website ↗︎][personal-url] ]
 
 </div>
