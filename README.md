@@ -1,15 +1,14 @@
 <div align="center">
 
-<p style="font-size: 18px">Hello there, I'm</p>
+### Hello there, I'm
 
-<p style="font-size: 30px; font-weight: bold">Tyler Ekaireb</p>
+# Tyler Ekaireb
 
 <i><p>IoT & Cloud Researcher @ [RACELab][racelab-url]</p></i>
 Computer Engineering @ UC Santa Barbara
 
-<br><br><br>
-
-<u><i><p style="font-size: 16px">Links:</p></i></u>
+<br>
+_Links:_
 [ [LinkedIn ↗︎][linkedin-url] ] [ [Personal Website ↗︎][personal-url] ]
 
 </div>
